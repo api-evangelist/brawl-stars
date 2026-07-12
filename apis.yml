@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://developer.brawlstars.com
 common:
+  - type: DomainSecurity
+    url: security/brawl-stars-domain-security.yml
   - type: Website
     url: https://developer.brawlstars.com
   - type: PublicAPIsListing
