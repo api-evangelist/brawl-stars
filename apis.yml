@@ -27,7 +27,7 @@ description: "Brawl Stars Game Information"
 url: https://developer.brawlstars.com
 specificationVersion: '0.23'
 created: '2026-05-28'
-modified: '2026-05-28'
+modified: '2026-10-06'
 x-source: public-apis/public-apis
 x-category: "Games & Comics"
 x-tier: 3
@@ -46,6 +46,8 @@ apis:
       - type: Documentation
         url: https://developer.brawlstars.com
 common:
+  - url: https://developer.brawlstars.com/blog/
+    type: Blog
   - type: DomainSecurity
     url: security/brawl-stars-domain-security.yml
   - type: Website
