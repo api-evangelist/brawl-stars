@@ -40,7 +40,8 @@ apis:
   - name: Brawl Stars
     description: "Brawl Stars Game Information"
     humanURL: https://developer.brawlstars.com
-    tags:
+    tags: []
+    tags_raw:
       - Games And Comics
     properties:
       - type: Documentation
